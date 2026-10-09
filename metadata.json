@@ -1,0 +1,6 @@
+{
+  "name": "Tactile Precision Health",
+  "description": "Skeuomorphic precision health console with food calorie analysis, hydration vessel, sleep timing, and 24-hour schedule chronometer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
